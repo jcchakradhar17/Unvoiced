@@ -1,5 +1,10 @@
-# ✋ Unvoiced: Sign Language to Speech Converter
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/040b46a4-dba1-4a8c-95e5-c0e48f7d88b8" /># ✋ Unvoiced: Sign Language to Speech Converter
+**Developed by: **
+Salla Haasini Reddy
+JC Chakradhar Reddy
 
+**Department:** CSE – AI & ML  
+**Institution:** SRM Institute of Science and Technology
 Welcome to **Unvoiced**, an innovative application that translates American Sign Language (ASL) into speech! 🎤
 
 ![hippo](Unvoiced_Spelling_out_WOW_from_Sign_Language_Alphabet.gif)
